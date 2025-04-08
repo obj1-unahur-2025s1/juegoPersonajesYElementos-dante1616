@@ -41,6 +41,7 @@ A su vez, respecto de las armas tenemos estas definiciones respecto de la potenc
 - La `jabalina` nace cargada. Se puede usar solamente una vez, o sea, con el primer uso deja de estar cargada. Su potencia es 30.
 
 
+
 <br> 
 
 ### Mario
